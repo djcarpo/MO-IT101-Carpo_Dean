@@ -25,7 +25,7 @@ public class DetailsAndComputation {
 
                 System.out.println("============== Calculation ==============");
 
-                // Prompt user for month and year (YYYY/MM)
+                // Enter specified date for computation
                 BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
                 try {
                     System.out.print("Enter YYYY/MM: ");
